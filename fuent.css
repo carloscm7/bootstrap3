@@ -1,0 +1,41 @@
+ /***FUENTE HEADING***/
+@font-face {
+    font-family: 'HeadingThin';
+    src:url(https://ghcdn.rawgit.org/edyjadu/FuentesEdy/main/Heading/Heading-Pro-Thin-trial.woff);
+}
+
+@font-face {
+    font-family: 'HeadingExtraLight';
+    src:url(https://ghcdn.rawgit.org/edyjadu/FuentesEdy/main/Heading/Heading-Pro-ExtraLight-trial.woff);
+}
+
+@font-face {
+    font-family: 'HeadingLight';
+    src:url(https://ghcdn.rawgit.org/edyjadu/FuentesEdy/main/Heading/Heading-Pro-Light-trial.woff);
+}
+
+@font-face {
+    font-family: 'HeadingBook';
+    src:url(https://ghcdn.rawgit.org/edyjadu/FuentesEdy/main/Heading/Heading-Pro-Book-trial.woff);
+}
+
+@font-face {
+    font-family: 'HeadingBold';
+    src:url(https://ghcdn.rawgit.org/edyjadu/FuentesEdy/main/Heading/Heading-Pro-Bold-trial.woff);
+}
+
+@font-face {
+    font-family: 'HeadingExtraBold';
+    src:url(https://ghcdn.rawgit.org/edyjadu/FuentesEdy/main/Heading/Heading-Pro-ExtraBold-trial.woff);
+}
+
+@font-face {
+    font-family: 'HeadingHeavy';
+    src:url(https://ghcdn.rawgit.org/edyjadu/FuentesEdy/main/Heading/Heading-Pro-Heavy-trial.woff);
+}
+
+/*** FUENTE SHAKERATO ***/
+@font-face {
+    font-family: 'ShakeratoLight';
+    src:url(https://ghcdn.rawgit.org/edyjadu/FuentesEdy/main/Shakerato/Shakerato-PERSONAL-Light.otf);
+}

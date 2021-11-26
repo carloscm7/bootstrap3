@@ -1,0 +1,106 @@
+#titulo1{
+    color:#292929;
+    font-size: 40px;
+    font-family: 'HeadingBold';
+}
+
+#titulo2{
+    color:#f0f0f0;
+    font-size: 40px;
+    font-family: 'HeadingBold';
+}
+
+#edyfont{
+    font-size: 18px;
+    font-family: 'HeadingLight';
+}
+
+/* PANEL - COLOR PERSONALIZADO*/
+
+.panel-edycel{
+    border-color:#0088CC;
+}
+.panel-edycel>
+.panel-heading{
+    color:#fff;
+    background-color:#0088CC;
+    border-color:#0088CC;
+}
+.panel-edycel>
+.panel-heading+
+.panel-collapse>
+.panel-body{
+    border-top-color:#0088CC;
+}
+.panel-edycel>
+.panel-heading 
+.badge{
+    color:#0088CC;
+    background-color:#fff;
+}
+.panel-edycele>
+.panel-footer+
+.panel-collapse>
+.panel-body{
+    border-bottom-color:#0088CC;
+}
+
+/* BOTON - COLOR PERSONALIZADO */
+
+.btn-edycel{
+    color:#fff;
+    background-color:#0088CC;
+    border-color:#006699;
+}
+.btn-edycel.focus,
+.btn-edycel:focus{
+    color:#fff;
+    background-color:#286090;
+    border-color:#122b40;
+}
+.btn-edycel:hover{
+    color:#fff;
+    background-color:#286090;
+    border-color:#204d74;
+}
+.btn-edycel.active,
+.btn-edycel:active,
+.open>.dropdown-toggle.btn-edycel{
+    color:#fff;
+    background-color:#286090;
+    border-color:#204d74;
+}
+.btn-edycel.active.focus,
+.btn-edycel.active:focus,
+.btn-edycel.active:hover,
+.btn-edycel:active.focus,
+.btn-edycel:active:focus,
+.btn-edycel:active:hover,
+.open>.dropdown-toggle.btn-edycel.focus,
+.open>.dropdown-toggle.btn-edycel:focus,
+.open>.dropdown-toggle.btn-edycel:hover{
+    color:#fff;
+    background-color:#204d74;
+    border-color:#122b40;
+}
+.btn-edycel.active,.btn-edycel:active,
+.open>.dropdown-toggle.btn-edycel{
+    background-image:none;
+}
+.btn-edycel.disabled.focus,
+.btn-edycel.disabled:focus,
+.btn-edycel.disabled:hover,
+.btn-edycel[disabled].focus,
+.btn-edycel[disabled]:focus,
+.btn-edycel[disabled]:hover,fieldset[disabled] 
+.btn-edycel.focus,fieldset[disabled] 
+.btn-edycel:focus,fieldset[disabled] 
+.btn-edycel:hover{
+    background-color:#0088CC;
+    border-color:#006699;
+}
+.btn-edycel .badge{
+    color:#0088CC;
+    background-color:#fff;
+}
+
